@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**raman0c17/raman0c17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Rewati Raman Pandey 🚀
 
-Here are some ideas to get you started:
+📧 raman0c17@outlook.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Summary 🌟
+Passionate software engineer with expertise in Python, Django, algorithms, and data structures. Love to solve complex problems and build innovative solutions. Always eager to learn and explore new technologies. Let's code and create something awesome! 🎉💻
+
+## Skills 💪
+- Python 🐍
+- Django 🌐
+- Algorithms 🧩
+- Data Structures 🗂️
+
+## Projects 🛠️
+- [Project 1](https://github.com/raman0c17/project1) 🚀 - Brief description of project 1.
+- [Project 2](https://github.com/raman0c17/project2) 🌟 - Brief description of project 2.
+- [Project 3](https://github.com/raman0c17/project3) 💡 - Brief description of project 3.
+
+## Connect with Me 🤝
+- Twitter: [@rmn030](https://twitter.com/rmn030) 🐦
+- LinkedIn: [rmn030](https://www.linkedin.com/in/rmn030) 💼
+- GitHub: [raman0c17](https://github.com/raman0c17) 🌐
+
+Feel free to explore my repositories and reach out to me! Let's collaborate and create something amazing together! 🚀👨‍💻
