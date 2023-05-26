@@ -13,10 +13,6 @@ Passionate software engineer with expertise in Python, Django, algorithms, and d
 - Algorithms 🧩
 - Data Structures 🗂️
 
-## Projects 🛠️
-- [Project 1](https://github.com/raman0c17/project1) 🚀 - Brief description of project 1.
-- [Project 2](https://github.com/raman0c17/project2) 🌟 - Brief description of project 2.
-- [Project 3](https://github.com/raman0c17/project3) 💡 - Brief description of project 3.
 
 ## Connect with Me 🤝
 - Twitter: [@rmn030](https://twitter.com/rmn030) 🐦
