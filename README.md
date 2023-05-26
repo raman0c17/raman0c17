@@ -1,18 +1,26 @@
-### Hi there 👋
-
-# Rewati Raman Pandey 🚀
+# Rewati Raman Pandey 👨‍💻
 
 📧 raman0c17@outlook.com
 
-## Summary 🌟
-Passionate software engineer with expertise in Python, Django, algorithms, and data structures. Love to solve complex problems and build innovative solutions. Always eager to learn and explore new technologies. Let's code and create something awesome! 🎉💻
+[![Follow on GitHub](https://img.shields.io/github/followers/raman0c17?label=Follow%20on%20GitHub&style=social)](https://github.com/raman0c17)
+
+## Summary 🚀
+Passionate software engineer with expertise in Python, Django, data science, and machine learning. Skilled in developing data analytics solutions and building machine learning models. Proficient in algorithms, optimization, and data structures. Let's collaborate and create innovative solutions together! 🌟💻
 
 ## Skills 💪
-- Python 🐍
-- Django 🌐
-- Algorithms 🧩
-- Data Structures 🗂️
+| Skills                     | Technologies                   |
+| -------------------------- | ------------------------------ |
+| R, RStudio                 | Data Analytics, Statistics     |
+| Python, Django             | Data Science, Pandas, NumPy    |
+| C, Machine Learning        | Matrix Operations, Machine Learning Models |
+| Algorithms, Optimization   |                                |
+| Data Structures            |                                |
 
+## Favorite IDE and Editors 🖥️
+- Vim
+- Notepad++
+- Visual Studio Code (VSCode)
+- PyCharm
 
 ## Connect with Me 🤝
 - Twitter: [@rmn030](https://twitter.com/rmn030) 🐦
