@@ -23,8 +23,8 @@ Passionate software engineer with expertise in Python, Django, data science, and
 - PyCharm
 
 ## Connect with Me 🤝
-- Twitter: [@rmn030](https://twitter.com/rmn030) 🐦
-- LinkedIn: [rmn030](https://www.linkedin.com/in/rmn030) 💼
-- GitHub: [raman0c17](https://github.com/raman0c17) 🌐
+[![Twitter](https://img.shields.io/badge/Twitter-rmn030-1DA1F2?style=flat&logo=twitter)](https://twitter.com/rmn030)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rmn030-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/rmn030)
+[![GitHub](https://img.shields.io/badge/GitHub-raman0c17-181717?style=flat&logo=github)](https://github.com/raman0c17)
 
 Feel free to explore my repositories and reach out to me! Let's collaborate and create something amazing together! 🚀👨‍💻
