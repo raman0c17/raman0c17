@@ -51,3 +51,20 @@ Passionate software engineer with expertise in Python, Django, data science, and
 [![GitHub](https://img.shields.io/badge/GitHub-raman0c17-181717?style=flat&logo=github)](https://github.com/raman0c17)
 
 Feel free to explore my repositories and reach out to me! Let's collaborate and create something amazing together! 🚀👨‍💻
+
+
+## Hobbies and Free Time Activities
+
+In my free time, I enjoy engaging in various activities and hobbies that help me relax and unwind. Here are some of my favorite pastimes:
+
+- 📚 Reading Books, Articles, and Novels: I find great joy in exploring different genres of literature and gaining knowledge through reading. Philosophy is my fav.
+
+- 🧘‍♀️ Meditation and Yoga: Practicing meditation and yoga allows me to find inner peace, improve focus, and maintain a healthy mind-body balance.
+
+- 🎶 Listening to Music: Music is a constant source of inspiration and relaxation for me. I enjoy exploring various genres and discovering new artists.
+
+- 🖋️ Writing: I find solace in expressing my thoughts and ideas through writing. It helps me reflect and unleash my creativity.
+
+- 🎨 Art and Creativity: Engaging in creative activities such as painting and sketching allows me to express myself artistically and tap into my imagination.
+
+
