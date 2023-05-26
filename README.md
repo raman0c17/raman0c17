@@ -7,14 +7,17 @@
 ## Summary 🚀
 Passionate software engineer with expertise in Python, Django, data science, and machine learning. Skilled in developing data analytics solutions and building machine learning models. Proficient in algorithms, optimization, and data structures. Let's collaborate and create innovative solutions together! 🌟💻
 
-## Skills 💪
-| Skills                     | Technologies                   |
-| -------------------------- | ------------------------------ |
-| R, RStudio                 | Data Analytics, Statistics     |
-| Python, Django             | Data Science, Pandas, NumPy    |
-| C, Machine Learning        | Matrix Operations, Machine Learning Models |
-| Algorithms, Optimization   |                                |
-| Data Structures            |                                |
+## Skills and Proficiency
+
+| Skill                    | Areas of Expertise                              | Proficiency |
+| ------------------------ | ----------------------------------------------- | ----------- |
+| R                        | Data Analytics, Data Science, Statistics        | ██████████ 90% |
+| Python                   | Data Science, Django, Pandas, NumPy             | ██████████ 90% |
+| C                        | Machine Learning Models, Matrix Operations      | ████████ 80% |
+| SQL                      | Database CRUD, Maintenance                      | ██████████ 100% |
+| Algorithms & Data Structures | Optimization, Programming                   | ████████ 80% |
+
+
 
 ## Favorite IDE and Editors 🖥️
 - Vim
