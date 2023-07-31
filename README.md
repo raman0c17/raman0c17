@@ -11,31 +11,31 @@ Passionate software engineer with expertise in Python, Django, data science, and
 
 | Category               | Technologies                                             | Proficiency   |
 | ---------------------- | -------------------------------------------------------- | ------------- |
-| **Backend**            | Django, Django REST Framework, Python                    | ██████████ 90% |
-| **Frontend**           | HTML, CSS, JavaScript, Bootstrap, React, Vue.js          | ██████████ 90% |
-| **Database**           | PostgreSQL, MySQL, SQLite, MongoDB                       | ██████████ 90% |
-| **ORM**                | Django ORM                                               | ██████████ 90% |
-| **Authentication**     | Django Authentication, OAuth, JWT                        | ██████████ 90% |
-| **Caching**            | Django Cache Framework, Redis                            | ██████████ 90% |
-| **Web Servers**        | Apache, Nginx                                            | ██████████ 90% |
-| **Deployment**         | Docker, Heroku, AWS, GCP, DigitalOcean                    | ████████ 75% |
-| **Testing**            | Django Testing Framework, Selenium, pytest                | ████████ 75% |
-| **Version Control**    | Git, GitHub, Bitbucket, GitLab                           | ██████████ 90% |
-| **CI/CD**              | Jenkins, Travis CI, CircleCI, GitHub Actions             | ██      45% |
-| **Monitoring**         | Django Debug Toolbar, Sentry, ELK Stack                  | ██      45% |
-| **Project Management** | Agile, Scrum, Kanban, Trello, Jira                       | ████████ 75% |
-| **IDE/Editors**        | Visual Studio Code, PyCharm, Sublime Text, Atom, Vim     | ██████████ 90% |
+| **Backend**            | Django, Django REST Framework, Python                    | ██████████  |
+| **Frontend**           | HTML, CSS, JavaScript, Bootstrap, React, Vue.js          | ██████████  |
+| **Database**           | PostgreSQL, MySQL, SQLite, MongoDB                       | ██████████  |
+| **ORM**                | Django ORM                                               | ██████████  |
+| **Authentication**     | Django Authentication, OAuth, JWT                        | ██████████  |
+| **Caching**            | Django Cache Framework, Redis                            | ██████████  |
+| **Web Servers**        | Apache, Nginx                                            | ██████████  |
+| **Deployment**         | Docker, Heroku, AWS, GCP, DigitalOcean                   | ██████████  |
+| **Testing**            | Django Testing Framework, Selenium, pytest               | ██████████  |
+| **Version Control**    | Git, GitHub, Bitbucket, GitLab                           | ██████████  |
+| **CI/CD**              | Jenkins, Travis CI, CircleCI, GitHub Actions             | ██████████  |
+| **Monitoring**         | Django Debug Toolbar, Sentry, ELK Stack                  | ██████████  |
+| **Project Management** | Agile, Scrum, Kanban, Trello, Jira                       | ████████    |
+| **IDE/Editors**        | Visual Studio Code, PyCharm, Atom, Vim                   | ██████████  |
 
 
 ## Skills and Proficiency
 
 | Skill                    | Areas of Expertise                              | Proficiency |
 | ------------------------ | ----------------------------------------------- | ----------- |
-| R                        | Data Analytics, Data Science, Statistics        | ██████████ 90% |
-| Python                   | Data Science, Django, Pandas, NumPy             | ██████████ 90% |
-| C                        | Machine Learning Models, Matrix Operations      | ████████ 80% |
-| SQL                      | Database CRUD, Maintenance                      | ██████████ 100% |
-| Algorithms & Data Structures | Optimization, Programming                   | ████████ 80% |
+| R                        | Data Analytics, Data Science, Statistics        | ██████████  |
+| Python                   | Data Science, Django, Pandas, NumPy             | ██████████  |
+| C                        | Machine Learning Models, Matrix Operations      | ██████████  |
+| SQL                      | Database CRUD, Maintenance                      | ██████████  |
+| Algorithms & Data Structures | Optimization, Programming                   | ██████████  |
 
 
 
