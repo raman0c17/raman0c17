@@ -7,7 +7,7 @@
 ## Summary 🚀
 Passionate software engineer with expertise in Python, Django, data science, and machine learning. Skilled in developing data analytics solutions and building machine learning models. Proficient in algorithms, optimization, and data structures. Let's collaborate and create innovative solutions together! 🌟💻
 
-## Django Full-Stack Development Technologies
+## Development Technologies
 
 | Category               | Technologies                                             | Proficiency   |
 | ---------------------- | -------------------------------------------------------- | ------------- |
